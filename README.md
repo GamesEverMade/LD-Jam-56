@@ -31,7 +31,8 @@
  <a href="#about">About</a> • 
  <a href="#controls">Controls</a> • 
   <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
+ <a href="#references">References</a> •
+ <a href="#aknowledges">Aknowledges</a> •
 </p>
 
 <p align="center">
@@ -39,7 +40,7 @@
     <img src="./game/example2.png" alt="Image Example" width="400px"></img>
 </p>
 
-<h2 id="started">About 📌 </h2>
+<h2 id="started">📌 About  </h2>
 
 After being inspired by an unbelievable scene of monkeys jumping between barrels, Ant-onio and his friends got together to hold an Olympics in the wild.
 
@@ -54,7 +55,7 @@ Your mission is to jump between the cans until you reach the end of the route, i
 [![itch.io][ITCHIO__BADGE]](https://games-ever-made.itch.io/mintolympics)
 
 <br/>
-<h2 id="controls">Controls 🕹️</h2>
+<h2 id="controls">🕹️ Controls </h2>
 
 | Input                   |        Description       |
 |------------------------:|:-------------------------|
@@ -111,12 +112,41 @@ Special thank you for all people that contributed for this project.
   </tr>
 </table>
 
-## References
+<h2 id="references">📝 References </h2>
 
-List of all references used for this game
+This is the list of games, articles, creators that we took inspiration to work in this project.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/1533420/Neon_White/">
+        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202210/1823/rHI0zvvo70Cf1jxK7xgvIzsf.jpg" width="100px;" alt="Alisson Lindote Picture"/><br>
+        <sub>
+          <b>Neon White</b><br/>
+          <i>Angel Matrix</i>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.nintendo.com/en-gb/Games/Super-Nintendo/Donkey-Kong-Country-276896.html">
+        <img src="https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_DonkeyKongCountryReturnsHD_image500w.jpg" width="100px;" alt="Andrew Mendes 'Elfo' Picture"/><br>
+        <sub>
+          <b>Donkey Kong Country</b><br/>
+          <i>Nintendo</i>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Special tanks and Aknowledges
+<h2 id="aknowledges">Special tanks and Aknowledges</h2>
 
-List of Special tanks and Aknowledges
+Here is our Special Thanks and Aknowledges for all of those who help us developing this project:
+
+```cs
+ {
+    "plataform":"GDeveloper",
+    "portal":"Itch.io",
+ }
+````
 
 <img src="https://starchart.cc/GameCraftBuild/big-jam-five.svg">
