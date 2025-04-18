@@ -6,10 +6,10 @@
 [GIT__BADGE]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 
 <div align='center'>
-    <img src='./gamesEverMade.png' alt='GamesEverMade logo' width='120'>
+    <img src='./GamesEverMade_logo.png' alt='GamesEverMade logo' width='120'>
 </div>
 <a align="center" href="https://ldjam.com/events/ludum-dare/56">Ludum Dare 56 website</a>
-<h1 align="center" style="font-weight: bold;">Mint Olimpics💻</h1>
+<h1 align="center" style="font-weight: bold;">◯‍◯‍◯‍◯‍◯ Mint Olimpics ◯‍◯‍◯‍◯‍◯</h1>
 
 [![Static Badge](https://img.shields.io/badge/Made_with-GDevelop-purple)](https://img.shields.io/badge/Made_with-GDevelop-purple)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
